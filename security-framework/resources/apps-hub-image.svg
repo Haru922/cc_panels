@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="48px" viewBox="0 0 96 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/ConnectHub</title>
+    <defs>
+        <linearGradient x1="18.9723036%" y1="45.7747431%" x2="100%" y2="54.2252569%" id="linearGradient-1">
+            <stop stop-color="#D8D8D8" offset="0%"></stop>
+            <stop stop-color="#C0C0C0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-150.0%" y="-21.4%" width="400.0%" height="142.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-150.0%" y="-21.4%" width="400.0%" height="142.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="20.7994419%" y1="48.5150546%" x2="100%" y2="51.3250406%" id="linearGradient-4">
+            <stop stop-color="#797979" offset="0%"></stop>
+            <stop stop-color="#363636" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="5" y="16" width="86" height="14" rx="4"></rect>
+        <filter x="-2.3%" y="-14.3%" width="104.7%" height="128.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M16,20 L16,25 L15,25 L15,27 L11,27 L11,25 L10,25 L10,20 L16,20 Z M23,20 L23,25 L22,25 L22,27 L18,27 L18,25 L17,25 L17,20 L23,20 Z M30,20 L30,25 L29,25 L29,27 L25,27 L25,25 L24,25 L24,20 L30,20 Z M37,20 L37,25 L36,25 L36,27 L32,27 L32,25 L31,25 L31,20 L37,20 Z M44,20 L44,25 L43,25 L43,27 L39,27 L39,25 L38,25 L38,20 L44,20 Z M51,20 L51,25 L50,25 L50,27 L46,27 L46,25 L45,25 L45,20 L51,20 Z M58,20 L58,25 L57,25 L57,27 L53,27 L53,25 L52,25 L52,20 L58,20 Z M65,20 L65,25 L64,25 L64,27 L60,27 L60,25 L59,25 L59,20 L65,20 Z M72,20 L72,25 L71,25 L71,27 L67,27 L67,25 L66,25 L66,20 L72,20 Z M73,25 L73,20 L79,20 L79,25 L78,25 L78,27 L74,27 L74,25 L73,25 Z" id="path-7"></path>
+        <filter x="-2.9%" y="-28.6%" width="105.8%" height="157.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ic/ConnectHub" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M48,37 C49.8664601,37 51.4343432,38.2783601 51.8758489,40.00728 L51.8833789,40.0067277 L52,40 L67,40 C67.5522847,40 68,40.4477153 68,41 C68,41.5128358 67.6139598,41.9355072 67.1166211,41.9932723 L67,42 L52,42 C51.9577582,42 51.9161282,41.9973809 51.8752635,41.9922961 C51.4343432,43.7216399 49.8664601,45 48,45 C45.790861,45 44,43.209139 44,41 C44,38.790861 45.790861,37 48,37 Z M48,39 C46.8954305,39 46,39.8954305 46,41 C46,42.1045695 46.8954305,43 48,43 C49.1045695,43 50,42.1045695 50,41 C50,39.8954305 49.1045695,39 48,39 Z M42,40 C42.5522847,40 43,40.4477153 43,41 C43,41.5128358 42.6139598,41.9355072 42.1166211,41.9932723 L42,42 L29,42 C28.4477153,42 28,41.5522847 28,41 C28,40.4871642 28.3860402,40.0644928 28.8833789,40.0067277 L29,40 L42,40 Z M48,22 C48.5128358,22 48.9355072,22.3860402 48.9932723,22.8833789 L49,23 L49,35 C49,35.5522847 48.5522847,36 48,36 C47.4871642,36 47.0644928,35.6139598 47.0067277,35.1166211 L47,35 L47,23 C47,22.4477153 47.4477153,22 48,22 Z" id="Combined-Shape" fill="#505050" fill-rule="nonzero"></path>
+        <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="5" y="5" width="86" height="25" rx="4"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" filter="url(#filter-2)" x="8" y="6" width="2" height="14"></rect>
+        <rect id="Rectangle-Copy-22" fill="#949494" filter="url(#filter-3)" x="87" y="6" width="2" height="14"></rect>
+        <g id="Rectangle">
+            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+        </g>
+        <rect id="Rectangle" fill="#E0E0E0" x="9" y="19" width="71" height="8"></rect>
+        <rect id="Rectangle" fill="#B8E986" x="83" y="21" width="4" height="4" rx="2"></rect>
+        <g id="Combined-Shape">
+            <use fill-opacity="0.5" fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/control-center/security-framework">
+    <file preprocess="xml-stripblanks">security-framework.ui</file>
+    <file>resources/cc-image.svg</file>
+    <file>resources/ghub-image.svg</file>
+    <file>resources/gctrl-image.svg</file>
+    <file>resources/gauth-image.svg</file>
+    <file>resources/apps-image.svg</file>
+    <file>resources/agent-image.svg</file>
+    <file>resources/gpms-image.svg</file>
+    <file>resources/apps-hub-image.svg</file>
+  </gresource>
+</gresources>

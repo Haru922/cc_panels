@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="prefix__a" x1="0%" x2="101.023%" y1="0%" y2="100.032%">
+            <stop offset="0%" stop-color="#1B6ED0"/>
+            <stop offset="99.954%" stop-color="#7A47C2"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#prefix__a)" d="M16 0h16c8.837 0 16 7.163 16 16v16c0 8.837-7.163 16-16 16H16C7.163 48 0 40.837 0 32V16C0 7.163 7.163 0 16 0z"/>
+        <path fill="#FFF" d="M9 14H28V16H9zM9 32H28V34H9zM9 23H14V25H9zM34 14H39V16H34zM34 32H39V34H34zM20 23H39V25H20z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M31 17c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zm0 2c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zM31 35c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zm0 2c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zM17 26c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zm0 2c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4z"/>
+    </g>
+</svg>

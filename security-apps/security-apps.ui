@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires gtk+ 3.0 -->
+  <template class="CcSecurityAppsPanel" parent="CcPanel">
+    <property name="visible">True</property>
+    <property name="can-focus">False</property>
+    <property name="expand">True</property>
+    <child>
+      <object class="GtkNotebook" id="security_apps_notebook">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <placeholder/>
+        </child>
+      </object>
+    </child>
+  </template>
+</interface>
